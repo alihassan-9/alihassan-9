@@ -31,6 +31,13 @@
 
 AI Engineer specializing in LLMs, Multi-Agent Systems, and RAG pipelines, with over a year of hands-on experience building production-ready intelligent systems using LangChain, LangGraph, Google ADK, and the Model Context Protocol (MCP). Recent AI graduate (BS Artificial Intelligence, University of Central Punjab) who scored in the 97.7th percentile on Pakistan's HEC National Skill Competency Test. Most recently worked as an AI Contractor at Turing, evaluating LLM and agentic workflow outputs against structured quality rubrics.
 
+### Core Strengths
+
+- AI & Agentic System Development: multi-agent architectures, RAG pipelines, context engineering
+- Full-Stack Engineering: FastAPI and Flask backends paired with Next.js and React frontends
+- Computer Vision & AI Evaluation: YOLOv8, structured side-by-side evaluation, fact-checking of model outputs
+- Applied Generative AI: prompt engineering and deployment of real-world AI solutions across finance, retail, and generative UI domains
+
 ### Highlights
 
 - Built Axiom AI, a 5-agent neuro-symbolic RAG pipeline (Google ADK) that audits vendor invoices end to end, with a 9 of 10 offline evaluation pass rate
