@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 226" width="490" height="226" font-family="Menlo, Consolas, monospace">
+<rect x="0.5" y="0.5" width="489" height="225" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect x="0.5" y="0.5" width="489" height="30" rx="10" fill="#161b22"/>
+<rect x="0.5" y="20.5" width="489" height="10" fill="#161b22"/>
+<circle cx="20" cy="15.5" r="6" fill="#ff5f56"/>
+<circle cx="38" cy="15.5" r="6" fill="#ffbd2e"/>
+<circle cx="56" cy="15.5" r="6" fill="#27c93f"/>
+<text x="245" y="20" text-anchor="middle" fill="#8b949e" font-size="12">ali@github ~ %</text>
+<text x="20" y="32" fill="#c9d1d9" font-size="13"><tspan fill="#7ee787">ali</tspan>@github</text>
+<line x1="20" y1="40" x2="470" y2="40" stroke="#30363d"/>
+<g opacity="0">
+<text x="20" y="60" fill="#7ee787" font-size="13">Now</text>
+<text x="128" y="60" fill="#c9d1d9" font-size="13">Fresher AI/ML Engineer, open to roles</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.35s" fill="freeze"/>
+</g>
+<g opacity="0">
+<text x="20" y="82" fill="#7ee787" font-size="13">Prev</text>
+<text x="128" y="82" fill="#c9d1d9" font-size="13">AI Contractor @ Turing</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.12s" dur="0.35s" fill="freeze"/>
+</g>
+<g opacity="0">
+<text x="20" y="104" fill="#7ee787" font-size="13">Stack</text>
+<text x="128" y="104" fill="#c9d1d9" font-size="13">Python * LangChain/LangGraph * Google ADK</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.24s" dur="0.35s" fill="freeze"/>
+</g>
+<g opacity="0">
+<text x="128" y="126" fill="#c9d1d9" font-size="13">FastAPI * Next.js * FAISS/RAG</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.36s" dur="0.35s" fill="freeze"/>
+</g>
+<g opacity="0">
+<text x="20" y="148" fill="#7ee787" font-size="13">Highlights</text>
+<text x="128" y="148" fill="#c9d1d9" font-size="13">Axiom AI - neuro-symbolic invoice auditor</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.48s" dur="0.35s" fill="freeze"/>
+</g>
+<g opacity="0">
+<text x="128" y="170" fill="#c9d1d9" font-size="13">Atlas - multi-agent orchestration system</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.35s" fill="freeze"/>
+</g>
+<g opacity="0">
+<text x="128" y="192" fill="#c9d1d9" font-size="13">One Mix AI - sketch/prompt to UI generator</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.72s" dur="0.35s" fill="freeze"/>
+</g>
+</svg>
