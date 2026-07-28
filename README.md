@@ -1,53 +1,56 @@
-<!-- ===== THEME-AWARE HERO BANNER ===== -->
-<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alihassan-9/alihassan-9/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alihassan-9/alihassan-9/main/light.svg">
-  <img alt="Ali Hassan" src="https://raw.githubusercontent.com/alihassan-9/alihassan-9/main/light.svg">
-</picture>
-
-<!-- ===== GITHUB STATS ===== -->
-
 <div align="center">
 
-<!-- Streak - full width -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=alihassan-9&hide_border=true&background=0F1419&stroke=F4B740&ring=5AA9E6&fire=F4B740&currStreakLabel=F4B740&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=F4B740&card_width=1180" />
-  <img width="100%" src="https://streak-stats.demolab.com/?user=alihassan-9&hide_border=true&background=FFFFFF&stroke=B45309&ring=2563EB&fire=B45309&currStreakLabel=B45309&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=B45309&card_width=1180" alt="Ali's streak" />
-</picture>
+<img src="./typing-banner.svg" width="640" />
 
-<br/>
+<br><br>
 
-<!-- Stats + Top languages - side by side -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-VERCEL-INSTANCE.vercel.app/api?username=alihassan-9&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=F4B740&icon_color=5AA9E6&text_color=94A3B8&bg_color=0F1419&card_width=500" />
-  <img width="49%" src="https://YOUR-VERCEL-INSTANCE.vercel.app/api?username=alihassan-9&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=B45309&icon_color=2563EB&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Ali's GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-VERCEL-INSTANCE.vercel.app/api/top-langs/?username=alihassan-9&layout=compact&langs_count=8&hide_border=true&title_color=F4B740&text_color=94A3B8&bg_color=0F1419&card_width=500" />
-  <img width="49%" src="https://YOUR-VERCEL-INSTANCE.vercel.app/api/top-langs/?username=alihassan-9&layout=compact&langs_count=8&hide_border=true&title_color=B45309&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
-</picture>
+<a href="https://www.linkedin.com/in/ali-hassan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:alihassan278027@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/alihassan-9"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br><br>
+
+<h3><code>alihassan-9 ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="780" />
+
+<br><br>
+
+<h3><code>alihassan-9 ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./ali-ascii.svg" width="330" /></td>
+    <td valign="top">
+      <table width="330">
+        <tr><td colspan="2"><code>alihassan-9 ~ %</code></td></tr>
+        <tr><td colspan="2"><hr></td></tr>
+        <tr><td><b>Now</b></td><td>Fresher AI/ML Engineer, open to roles</td></tr>
+        <tr><td><b>Prev</b></td><td>AI Contractor, Turing</td></tr>
+        <tr><td></td><td>Business Analyst, Turing</td></tr>
+        <tr><td></td><td>Python Developer Intern, Digital Elites.Dev</td></tr>
+        <tr><td><b>Projects</b></td><td>Axiom AI: invoice auditing pipeline</td></tr>
+        <tr><td></td><td>Atlas: multi-agent orchestration system</td></tr>
+        <tr><td></td><td>One Mix AI: sketch or prompt to UI</td></tr>
+        <tr><td></td><td>AI Shopping Advisor: 80 to 85% accuracy</td></tr>
+        <tr><td><b>Stack</b></td><td>Python, LangChain, LangGraph</td></tr>
+        <tr><td></td><td>Google ADK, MCP, FastAPI</td></tr>
+        <tr><td></td><td>Next.js, PyTorch, FAISS, RAG</td></tr>
+        <tr><td><b>Education</b></td><td>BS Artificial Intelligence</td></tr>
+        <tr><td></td><td>University of Central Punjab, Lahore</td></tr>
+        <tr><td></td><td>CGPA 3.26 out of 4.0</td></tr>
+        <tr><td><b>Test Score</b></td><td>HEC NSCT: 97.7th percentile</td></tr>
+        <tr><td><b>Location</b></td><td>Lahore, Pakistan (UTC+5)</td></tr>
+        <tr><td><b>Availability</b></td><td>Remote, 30+ hours per week</td></tr>
+        <tr><td><b>Email</b></td><td>alihassan278027@gmail.com</td></tr>
+        <tr><td><b>LinkedIn</b></td><td>linkedin.com/in/ali-hassan</td></tr>
+        <tr><td><b>GitHub</b></td><td>github.com/alihassan-9</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<!-- ===== CONTRIBUTION SNAKE ===== -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alihassan-9/alihassan-9/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alihassan-9/alihassan-9/output/snake-light.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/alihassan-9/alihassan-9/output/snake-light.svg" />
-</picture>
-
-</div>
-
-<!-- ===== END SNAKE ===== -->
-
-<br/>
-
-<!-- ===== ABOUT ===== -->
+<br>
 
 ### 🚀 About Me
 
@@ -68,22 +71,6 @@ AI Engineer specializing in LLMs, Multi-Agent Systems, and RAG pipelines, with o
 - 🛒 Built a 4-agent LangGraph shopping advisor, tested across 50+ products, achieving 80 to 85% recommendation accuracy
 - 🚗 Trained and evaluated a YOLOv8 model for automotive defect detection on a 100+ image annotated dataset
 
-<!-- ===== SOCIAL BADGES ===== -->
-<br/>
-<div align="center">
+### 📫 Let's Connect
 
-<a href="[https://www.linkedin.com/in/ali-hassan-70bb9323b">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white&labelColor=0A66C2&logo=linkedin" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:alihassan278027@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0F1419?style=for-the-badge&logo=gmail&logoColor=F4B740&labelColor=0F1419" alt="Email" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/alihassan-9">
-  <img src="https://img.shields.io/badge/GitHub-0F1419?style=for-the-badge&logo=github&logoColor=5AA9E6&labelColor=0F1419" alt="GitHub" />
-</a>
-&nbsp;&nbsp;
-</div>
-
-<!-- ===== END SOCIAL BADGES ===== -->
+Open to fresher AI/ML Engineer and AI Agent Developer roles, remote-friendly and comfortable with 30+ hour weekly commitments. Reach out via the links above.
