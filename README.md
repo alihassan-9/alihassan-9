@@ -72,7 +72,7 @@ AI Engineer specializing in LLMs, Multi-Agent Systems, and RAG pipelines, with o
 <br/>
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ali-hassan">
+<a href="[https://www.linkedin.com/in/ali-hassan">](https://www.linkedin.com/in/ali-hassan-70bb9323b/)
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white&labelColor=0A66C2&logo=linkedin" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
