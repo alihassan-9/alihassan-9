@@ -1,52 +1,24 @@
 <div align="center">
 
-<img src="./typing-banner.svg" width="640" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
+  <img src="./dark.svg" width="100%" alt="Ali Hassan profile banner" />
+</picture>
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/ali-hassan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:alihassan278027@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/alihassan-9"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ali-hassan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="mailto:alihassan278027@gmail.com"><img src="https://img.shields.io/badge/Email-F4B740?style=for-the-badge&logo=gmail&logoColor=0A0F1E" /></a>&nbsp;&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-5AA9E6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 <br><br>
 
-<h3><code>alihassan-9 ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="780" />
-
-<br><br>
-
-<h3><code>alihassan-9 ~ $ whoami</code></h3>
-<table>
-  <tr>
-    <td valign="top"><img src="./ali-ascii.svg" width="330" /></td>
-    <td valign="top">
-      <table width="330">
-        <tr><td colspan="2"><code>alihassan-9 ~ %</code></td></tr>
-        <tr><td colspan="2"><hr></td></tr>
-        <tr><td><b>Now</b></td><td>Fresher AI/ML Engineer, open to roles</td></tr>
-        <tr><td><b>Prev</b></td><td>AI Contractor, Turing</td></tr>
-        <tr><td></td><td>Business Analyst, Turing</td></tr>
-        <tr><td></td><td>Python Developer Intern, Digital Elites.Dev</td></tr>
-        <tr><td><b>Projects</b></td><td>Axiom AI: invoice auditing pipeline</td></tr>
-        <tr><td></td><td>Atlas: multi-agent orchestration system</td></tr>
-        <tr><td></td><td>One Mix AI: sketch or prompt to UI</td></tr>
-        <tr><td></td><td>AI Shopping Advisor: 80 to 85% accuracy</td></tr>
-        <tr><td><b>Stack</b></td><td>Python, LangChain, LangGraph</td></tr>
-        <tr><td></td><td>Google ADK, MCP, FastAPI</td></tr>
-        <tr><td></td><td>Next.js, PyTorch, FAISS, RAG</td></tr>
-        <tr><td><b>Education</b></td><td>BS Artificial Intelligence</td></tr>
-        <tr><td></td><td>University of Central Punjab, Lahore</td></tr>
-        <tr><td></td><td>CGPA 3.26 out of 4.0</td></tr>
-        <tr><td><b>Test Score</b></td><td>HEC NSCT: 97.7th percentile</td></tr>
-        <tr><td><b>Location</b></td><td>Lahore, Pakistan (UTC+5)</td></tr>
-        <tr><td><b>Availability</b></td><td>Remote, 30+ hours per week</td></tr>
-        <tr><td><b>Email</b></td><td>alihassan278027@gmail.com</td></tr>
-        <tr><td><b>LinkedIn</b></td><td>linkedin.com/in/ali-hassan</td></tr>
-        <tr><td><b>GitHub</b></td><td>github.com/alihassan-9</td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alihassan-9/alihassan-9/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alihassan-9/alihassan-9/output/snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/alihassan-9/alihassan-9/output/snake-dark.svg" width="100%" alt="Contribution snake" />
+</picture>
 
 </div>
 
