@@ -21,23 +21,15 @@
     <td valign="top"><img src="./ali-ascii.svg" width="330" /></td>
     <td valign="top">
       <table width="330">
-        <tr><td colspan="2"><code>alihassan-9 ~ %</code></td></tr>
+        <tr><td colspan="2">🔴&nbsp;🟡&nbsp;🟢</td></tr>
+        <tr><td colspan="2"><small><code>alihassan-9 ~ %</code></small></td></tr>
         <tr><td colspan="2"><hr></td></tr>
-        <tr><td><b>Now</b></td><td>Fresher AI/ML Engineer, open to roles</td></tr>
-        <tr><td><b>Prev</b></td><td>AI Contractor, Turing</td></tr>
-        <tr><td></td><td>Business Analyst, Turing</td></tr>
-        <tr><td></td><td>Python Developer Intern, Digital Elites.Dev</td></tr>
-        <tr><td><b>Projects</b></td><td>Axiom AI: invoice auditing pipeline</td></tr>
-        <tr><td></td><td>Atlas: multi-agent orchestration system</td></tr>
-        <tr><td></td><td>One Mix AI: sketch or prompt to UI</td></tr>
-        <tr><td></td><td>AI Shopping Advisor: 80 to 85% accuracy</td></tr>
-        <tr><td><b>Stack</b></td><td>Python, LangChain, LangGraph</td></tr>
-        <tr><td></td><td>Google ADK, MCP, FastAPI</td></tr>
-        <tr><td></td><td>Next.js, PyTorch, FAISS, RAG</td></tr>
-        <tr><td><b>Education</b></td><td>BS Artificial Intelligence, UCP Lahore</td></tr>
-        <tr><td></td><td>CGPA 3.26 out of 4.0</td></tr>
-        <tr><td><b>Location</b></td><td>Lahore, Pakistan (UTC+5)</td></tr>
-        <tr><td><b>Availability</b></td><td>Remote, 30+ hours per week</td></tr>
+        <tr><td><small><b>Now</b></small></td><td><small>Fresher AI/ML Engineer, open to roles</small></td></tr>
+        <tr><td><small><b>Prev</b></small></td><td><small>AI Contractor, Turing</small></td></tr>
+        <tr><td><small><b>Projects</b></small></td><td><small>Axiom AI, Atlas, One Mix AI, AI Shopping Advisor</small></td></tr>
+        <tr><td><small><b>Stack</b></small></td><td><small>Python, LangChain, LangGraph, FastAPI, Next.js</small></td></tr>
+        <tr><td><small><b>Education</b></small></td><td><small>BS AI, UCP Lahore</small></td></tr>
+        <tr><td><small><b>Location</b></small></td><td><small>Lahore, Pakistan · Remote, 30+ hrs/wk</small></td></tr>
       </table>
     </td>
   </tr>
