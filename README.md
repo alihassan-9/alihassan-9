@@ -34,15 +34,10 @@
         <tr><td><b>Stack</b></td><td>Python, LangChain, LangGraph</td></tr>
         <tr><td></td><td>Google ADK, MCP, FastAPI</td></tr>
         <tr><td></td><td>Next.js, PyTorch, FAISS, RAG</td></tr>
-        <tr><td><b>Education</b></td><td>BS Artificial Intelligence</td></tr>
-        <tr><td></td><td>University of Central Punjab, Lahore</td></tr>
+        <tr><td><b>Education</b></td><td>BS Artificial Intelligence, UCP Lahore</td></tr>
         <tr><td></td><td>CGPA 3.26 out of 4.0</td></tr>
-        <tr><td><b>Test Score</b></td><td>HEC NSCT: 97.7th percentile</td></tr>
         <tr><td><b>Location</b></td><td>Lahore, Pakistan (UTC+5)</td></tr>
         <tr><td><b>Availability</b></td><td>Remote, 30+ hours per week</td></tr>
-        <tr><td><b>Email</b></td><td>alihassan278027@gmail.com</td></tr>
-        <tr><td><b>LinkedIn</b></td><td>linkedin.com/in/ali-hassan</td></tr>
-        <tr><td><b>GitHub</b></td><td>github.com/alihassan-9</td></tr>
       </table>
     </td>
   </tr>
