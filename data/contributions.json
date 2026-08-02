@@ -1,42 +1,7 @@
 {
   "username": "alihassan-9",
-  "fetched_at": "2026-08-01T08:34:09.656720Z",
+  "fetched_at": "2026-08-02T08:37:05.752259Z",
   "days": [
-    {
-      "date": "2025-07-27",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-07-28",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-07-29",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-07-30",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-07-31",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-08-01",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-08-02",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-08-03",
       "level": 0,
@@ -1789,7 +1754,7 @@
     },
     {
       "date": "2026-07-19",
-      "level": 4,
+      "level": 3,
       "count": 2
     },
     {
@@ -1834,7 +1799,7 @@
     },
     {
       "date": "2026-07-28",
-      "level": 4,
+      "level": 3,
       "count": 2
     },
     {
@@ -1849,25 +1814,29 @@
     },
     {
       "date": "2026-07-31",
-      "level": 4,
+      "level": 3,
       "count": 2
     },
     {
       "date": "2026-08-01",
-      "level": 0,
-      "count": 0
+      "level": 2,
+      "count": 1
+    },
+    {
+      "date": "2026-08-02",
+      "level": 4,
+      "count": 3
     }
   ],
   "stats": {
-    "total_contributions": 25,
-    "current_streak": 0,
-    "longest_streak": 4,
+    "total_contributions": 29,
+    "current_streak": 6,
+    "longest_streak": 6,
     "best_day": {
       "date": "2026-07-29",
       "count": 16
     },
     "monthly_totals": {
-      "2025-07": 0,
       "2025-08": 0,
       "2025-09": 0,
       "2025-10": 0,
@@ -1880,7 +1849,7 @@
       "2026-05": 0,
       "2026-06": 0,
       "2026-07": 24,
-      "2026-08": 0
+      "2026-08": 4
     }
   }
 }
